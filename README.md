@@ -1,10 +1,13 @@
 ### Hi there 👋
-This is my personal GitHub page
+
+# Samuel Jspn
+
+Heiya I'm Sam, some french guy in Lille.
+23 and finishing studies CESI in apprenticeship.
+
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Jspn&show_icons=true&theme=shadow_red)](https://github.com/Samuel-Jspn/github-readme-stats)
+
 <!--
-**Samuel-Jspn/Samuel-Jspn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
