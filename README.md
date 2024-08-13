@@ -22,18 +22,13 @@
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Jspn&show_icons=true&theme=shadow_red)](https://github.com/Samuel-Jspn/github-readme-stats)
+[![Reactjs, CSS, Node.js, JavaScript, TypeScript, Git, Premiere Pro, Solidity](https://skillicons.dev/icons?i=react,css,nodejs,js,ts,git,pr)](https://skillicons.dev)
+
+## 🎮 When I'm AFK:
+
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 </div>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
