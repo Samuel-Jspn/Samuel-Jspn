@@ -14,6 +14,8 @@
 - 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
 - ⚡ Facts about me: I read mangas and love japanese culture, play video games, and love sports in general!
 
+<div align="center">
+
 ## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -23,6 +25,7 @@
 [![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
 [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Jspn&show_icons=true&theme=shadow_red)](https://github.com/Samuel-Jspn/github-readme-stats)
 
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
