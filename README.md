@@ -11,7 +11,9 @@
 </div>
 
 - 🔭 Currently working at Néosoft Lille [Néosoft Lille](https://www.linkedin.com/company/neosoft-/) en tant que stagiaire afin de réaliser mon Projet de Fin d'Études.
-- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
+[//]: # (- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).)
+[//]: # (- 📝 I’m aiming to write **one article per week** starting from November 2023.)
+- 🏆 I'm currently learning [Terraform](https://www.terraform.io/) and [Amazon Web Services](https://aws.amazon.com/fr/).
 - ⚡ Facts about me: I read mangas and love japanese culture, play video games, and love sports in general!
 
 <div align="center">
