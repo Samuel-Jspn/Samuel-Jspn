@@ -32,3 +32,11 @@
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 </div>
+
+## 
+
+<div align="center">
+    <a href="https://discord.com/users/265732143076868097">
+        <img src="https://lanyard.cnrad.dev/api/265732143076868097?theme=dark&animated=true&hideDiscrim=true">
+    </a>
+</div>
