@@ -37,6 +37,6 @@
 
 <div align="center">
     <a href="https://discord.com/users/265732143076868097">
-        <img src="https://lanyard.cnrad.dev/api/265732143076868097?theme=dark&animated=true&hideDiscrim=true">
+        <img src="https://lanyard.cnrad.dev/api/265732143076868097?theme=dark&bg=503D3D&hideDiscrim=true&showDisplayName=true&borderRadius=30px&idleMessage=If%20it%20doesn't%20display%20spotify,%20that%20thing%20is%20lying...">
     </a>
 </div>
