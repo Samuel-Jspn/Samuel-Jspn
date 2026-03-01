@@ -14,8 +14,7 @@
 
 </div>
 
-- 🔭 Currently working at Néosoft Lille [Néosoft Lille](https://www.linkedin.com/company/neosoft-/) en tant que stagiaire afin de réaliser mon Projet de Fin d'Études.
-- 🏆 I'm currently learning [Terraform](https://www.terraform.io/) and [Amazon Web Services](https://aws.amazon.com/fr/).
+- 🔭 Currently actively looking for my first job opportunity.
 - ⚡ Facts about me: I read mangas and love japanese culture, play video games, and love sports in general!
 
 <div align="center">
