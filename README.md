@@ -9,7 +9,7 @@
 <div align="center">
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/265732143076868097) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sam-jos/) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sam-jspn/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sjosephine.pro@gmail.com?subject=Bonjour%20Samuel,%20De%20Github)
 
 </div>
