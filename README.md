@@ -1,12 +1,12 @@
 <div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=750&duration=3000&pause=500&color=CA0000&width=435&lines=Yo%2C+it's+Sam!;Welcome+On+my+GH+Page)](https://git.io/typing-svg)
 
-</div>
+# Sam 👋
 
-# 
+### Full-stack Developer · Software Engineering Graduate
 
-<div align="center">
+**Building things I actually want to use.**
+
+<br>
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/265732143076868097) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sam-jspn/) &nbsp;
@@ -14,32 +14,138 @@
 
 </div>
 
-- 🔭 Currently actively looking for my first job opportunity.
-- ⚡ Facts about me: I read mangas and love japanese culture, play video games, and love sports in general!
+---
+
+## 👋 Hello there
+
+I'm **Sam**, a software engineering graduate and full-stack developer.
+
+I enjoy building web applications around ideas I actually care about — from gaming tools to real-world applications used by students.
+
+My projects usually start with:
+
+> _“It would be cool if something existed for this.”_
+
+…and then somehow become a repository.
+
+---
+
+## 📌 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◩ FACET
+
+My professional and personal web portfolio.
+
+`React` · `TypeScript` · `Vite`
+
+🟢 **Live**
+
+[Visit FACET →](https://facet-sam.vercel.app)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🟧 DraftHub
+
+Live draft assistance for competitive games.
+
+`React` · `TypeScript` · `Supabase`
+
+🟠 **In development**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎲 The Shelf
+
+A digital board-game library and voting platform built for a student residence.
+
+`Next.js` · `TypeScript` · `Supabase`
+
+🟢 **Live**
+
+[Visit The Shelf →](https://theshelf-board.vercel.app)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 MORPHH
+
+My standalone competitive gaming profile.
+
+`React` · `TypeScript` · `Vite`
+
+🟢 **Live**
+
+[Visit MORPHH →](https://morphhhh.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Toolbox
 
 <div align="center">
 
-## 💡 A Quote:
+### Languages & frontend
+
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind)](https://skillicons.dev)
+
+### Backend & database
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql)](https://skillicons.dev)
+
+### Cloud & workflow
+
+[![Cloud](https://skillicons.dev/icons?i=aws,terraform,vercel,git,github,vscode)](https://skillicons.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 A Quote
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 💻 My Tech Stack:
+</div>
 
-[![Reactjs, CSS, Node.js, JavaScript, TypeScript, Git, Premiere Pro, Solidity](https://skillicons.dev/icons?i=react,css,nodejs,js,ts,git,pr)](https://skillicons.dev)
+---
 
-## 🎮 When I'm AFK:
+## 🎮 Off-duty
+
+<div align="center">
+
+![Valorant](https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white)
+![League of Legends](https://img.shields.io/badge/League%20of%20Legends-C28F2C?style=for-the-badge)
+![Overwatch](https://img.shields.io/badge/Overwatch-F99E1A?style=for-the-badge&logo=overwatch&logoColor=white)
+
+<br><br>
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 </div>
 
-## 
+---
 
 <div align="center">
-    <a href="https://discord.com/users/265732143076868097">
-        <img src="https://lanyard.cnrad.dev/api/265732143076868097?theme=dark&bg=503D3D&hideDiscrim=true&showDisplayName=true&borderRadius=30px&idleMessage=Probably%20busy%20if%20not%20displaying%20games...">
-    </a>
+
+### Code when I have an idea.  
+### Game when I need another one.
+
 </div>
