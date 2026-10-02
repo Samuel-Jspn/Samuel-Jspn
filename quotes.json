@@ -48,7 +48,55 @@
     "author": "Alan J. Perlis"
   },
   {
-    "quote": "Games were not just a diversion, I realized. Games could make you feel.",
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson & Gerald Jay Sussman"
+  },
+  {
+    "quote": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth"
+  },
+  {
+    "quote": "The hardest single part of building a software system is deciding precisely what to build.",
+    "author": "Fred Brooks"
+  },
+  {
+    "quote": "The details are not the details. They make the design.",
+    "author": "Charles Eames"
+  },
+  {
+    "quote": "Design is not just what it looks like and feels like. Design is how it works.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "quote": "A game is a series of interesting decisions.",
     "author": "Sid Meier"
+  },
+  {
+    "quote": "The right man in the wrong place can make all the difference in the world.",
+    "author": "G-Man — Half-Life 2"
+  },
+  {
+    "quote": "Protocol 3: Protect the Pilot.",
+    "author": "BT-7274 — Titanfall 2"
+  },
+  {
+    "quote": "Wake me when you need me.",
+    "author": "Master Chief — Halo 3"
+  },
+  {
+    "quote": "The world could always use more heroes.",
+    "author": "Tracer — Overwatch"
+  },
+  {
+    "quote": "It's not how much time you have, it's how you use it.",
+    "author": "Ekko — League of Legends"
   }
 ]
