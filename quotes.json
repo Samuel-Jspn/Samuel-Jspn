@@ -4,22 +4,6 @@
     "author": "Martin Fowler"
   },
   {
-    "quote": "First, solve the problem. Then, write the code.",
-    "author": "John Johnson"
-  },
-  {
-    "quote": "Experience is the name everyone gives to their mistakes.",
-    "author": "Oscar Wilde"
-  },
-  {
-    "quote": "Code is like humor. When you have to explain it, it’s bad.",
-    "author": "Cory House"
-  },
-  {
-    "quote": "Before software can be reusable it first has to be usable.",
-    "author": "Ralph Johnson"
-  },
-  {
     "quote": "Make it work, make it right, make it fast.",
     "author": "Kent Beck"
   },
@@ -28,36 +12,8 @@
     "author": "Linus Torvalds"
   },
   {
-    "quote": "Don’t comment bad code – rewrite it.",
-    "author": "Brian Kernighan"
-  },
-  {
-    "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
-    "author": "C. A. R. Hoare"
-  },
-  {
-    "quote": "Programming isn't about what you know; it's about what you can figure out.",
-    "author": "Chris Pine"
-  },
-  {
-    "quote": "If you think good architecture is expensive, try bad architecture.",
-    "author": "Brian Foote"
-  },
-  {
-    "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
-    "author": "Alan J. Perlis"
-  },
-  {
     "quote": "Simplicity is prerequisite for reliability.",
     "author": "Edsger W. Dijkstra"
-  },
-  {
-    "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
-    "author": "Harold Abelson & Gerald Jay Sussman"
-  },
-  {
-    "quote": "Premature optimization is the root of all evil.",
-    "author": "Donald Knuth"
   },
   {
     "quote": "The hardest single part of building a software system is deciding precisely what to build.",
@@ -68,35 +24,59 @@
     "author": "Charles Eames"
   },
   {
-    "quote": "Design is not just what it looks like and feels like. Design is how it works.",
-    "author": "Steve Jobs"
+    "quote": "Programming isn't about what you know; it's about what you can figure out.",
+    "author": "Chris Pine"
   },
   {
-    "quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
-    "author": "Antoine de Saint-Exupéry"
+    "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+    "author": "C. A. R. Hoare"
+  },
+  {
+    "quote": "Bravo Six, going dark.",
+    "author": "Captain Price — Call of Duty: Modern Warfare"
+  },
+  {
+    "quote": "Just another day at the office.",
+    "author": "Captain Price — Call of Duty 4: Modern Warfare"
+  },
+  {
+    "quote": "History is written by the victor. History is filled with liars.",
+    "author": "Captain Price — Call of Duty: Modern Warfare 2"
+  },
+  {
+    "quote": "Art requires a certain... cruelty.",
+    "author": "Jhin — League of Legends"
+  },
+  {
+    "quote": "This world has potential. Needs hammering.",
+    "author": "Ornn — League of Legends"
+  },
+  {
+    "quote": "Gods do not need followers. Followers need gods.",
+    "author": "Ornn — League of Legends"
+  },
+  {
+    "quote": "I have found my limit a thousand times, and still I press further.",
+    "author": "Pantheon — League of Legends"
+  },
+  {
+    "quote": "The people cry out for strength that is already theirs!",
+    "author": "Pantheon — League of Legends"
+  },
+  {
+    "quote": "The dragon becomes me!",
+    "author": "Genji — Overwatch"
+  },
+  {
+    "quote": "You forget a thousand things every day, pal. Make sure this is one of 'em.",
+    "author": "Michael De Santa — Grand Theft Auto V"
+  },
+  {
+    "quote": "It is what you do with the gift of life that determines who you are.",
+    "author": "Mewtwo — Pokémon: The First Movie"
   },
   {
     "quote": "A game is a series of interesting decisions.",
     "author": "Sid Meier"
-  },
-  {
-    "quote": "The right man in the wrong place can make all the difference in the world.",
-    "author": "G-Man — Half-Life 2"
-  },
-  {
-    "quote": "Protocol 3: Protect the Pilot.",
-    "author": "BT-7274 — Titanfall 2"
-  },
-  {
-    "quote": "Wake me when you need me.",
-    "author": "Master Chief — Halo 3"
-  },
-  {
-    "quote": "The world could always use more heroes.",
-    "author": "Tracer — Overwatch"
-  },
-  {
-    "quote": "It's not how much time you have, it's how you use it.",
-    "author": "Ekko — League of Legends"
   }
 ]
