@@ -118,7 +118,7 @@ My standalone competitive gaming profile.
 
 ## 💡 A Quote
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+[![A random quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/Samuel-Jspn/Samuel-Jspn/blob/main/quotes.json)](https://github.com/zhravan/github-readme-quotes)
 
 </div>
 
